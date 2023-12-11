@@ -1,0 +1,3 @@
+{:src ["src/aoclj"]
+ :deps {hato/hato {:mvn/version "0.9.0"}
+        instaparse/instaparse {:mvn/version "1.4.12"}}}
